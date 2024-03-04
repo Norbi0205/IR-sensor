@@ -1,0 +1,1 @@
+I made a practical project with IR Sensor, accompanied by a powerpoint presentation. When we enter the sensor's range of action, a led signals this. The range of action of the led can be changed with the help of a potentiometer.
